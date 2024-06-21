@@ -746,7 +746,7 @@ GameObject:
   - component: {fileID: 295448557}
   - component: {fileID: 295448559}
   m_Layer: 5
-  m_Name: luk (1)
+  m_Name: hnd
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -840,7 +840,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a0ab018d4ab72114d9d80dc207377249, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dd7e4a148afd27049933ad635ab2d4af, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1150,7 +1150,7 @@ GameObject:
   - component: {fileID: 445494743}
   - component: {fileID: 445494745}
   m_Layer: 5
-  m_Name: str (1)
+  m_Name: cht
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2479,7 +2479,7 @@ GameObject:
   - component: {fileID: 901664987}
   - component: {fileID: 901664989}
   m_Layer: 5
-  m_Name: days
+  m_Name: life_hunger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2924,7 +2924,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c095c49ef79d80a45bc22e596a16dba0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 011e4b8b6854b3645a2f440d8ed51340, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4423,7 +4423,7 @@ GameObject:
   - component: {fileID: 1376965887}
   - component: {fileID: 1376965889}
   m_Layer: 5
-  m_Name: luk (2)
+  m_Name: mny
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5034,7 +5034,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a0ab018d4ab72114d9d80dc207377249, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c417ad7c7f3429e41a566d5dc24ff399, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6388,7 +6388,7 @@ GameObject:
   - component: {fileID: 1737629736}
   - component: {fileID: 1737629738}
   m_Layer: 5
-  m_Name: str (2)
+  m_Name: agl
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6787,7 +6787,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c095c49ef79d80a45bc22e596a16dba0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0432a24f7df4e994da648e236376bb12, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
