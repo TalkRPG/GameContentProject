@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_nostop01/Scenes/DongWon.unity
+    path: Assets/_nostop01/00_Scenes/Main.unity
+    guid: 2d23bb8220376c445aeb6e0345815922
+  - enabled: 1
+    path: Assets/_nostop01/00_Scenes/DongWon.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
